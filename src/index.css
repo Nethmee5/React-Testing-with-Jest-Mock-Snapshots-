@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.counter {
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+}
+
+.counter p {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.counter button{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
